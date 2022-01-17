@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lime;
+    width: 800px;
+    margin: 20px;
+}
+h1 {
+    font-weight: bold;
+    color: bisque;
+}
+h2 {
+    font-family: "Bree Serif", serif;
+    font-style: italic;
+    color: #A52A2A;
+}
+
+h3 {
+  font-weight: 500;  
+  color: green;
+}
+
